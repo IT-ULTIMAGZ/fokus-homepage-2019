@@ -1,5 +1,5 @@
 # FOKUS ULTIMAGZ - HOMEPAGE 2019
 
-![alt text](https://github.com/jerichosiahaya/fokus2019/assets/logo.png "Fokus Ultimagz")
+![alt text](https://ultimagz.com/wp-content/uploads/cropped-thumbnail_Logo-Ultimagz-01.png "Fokus Ultimagz")
 
 [Visit here.](https://fokus.ultimagz.com)
