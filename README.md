@@ -2,4 +2,4 @@
 
 ![alt text](https://ultimagz.com/wp-content/uploads/cropped-thumbnail_Logo-Ultimagz-01.png "Fokus Ultimagz")
 
-[Visit here.](fokus.ultimagz.com)
+[Visit here.](http://fokus.ultimagz.com)
